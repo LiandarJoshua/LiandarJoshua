@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Liandar Joshua 👋
 
-AI & Data Science engineer at **Commonwealth Bank of India**, building systems that sit at the intersection of machine learning, automation, and real-world engineering problems.
+AI & Data Science enthusiast, engineer at **Commonwealth Bank of India**, interested in building systems that sit at the intersection of machine learning, automation, and real-world engineering problems.
 
 ---
 
